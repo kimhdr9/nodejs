@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: aqua;
+}
+/* .parent {
+  background: salmon;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+} */
+.parent .ex1 {
+  display: grid;
+  place-items: center;
+  background-color: salmon;
+}
